@@ -1,3 +1,5 @@
+Live Demo: https://gym-web-template.netlify.app/
+
 ✨ Features
 • Fully Responsive Design: Optimized for seamless viewing on desktops, tablets, and mobile devices.
 • Modern & High-Energy Aesthetic: Dark and high-contrast color schemes tailored for the fitness industry.
